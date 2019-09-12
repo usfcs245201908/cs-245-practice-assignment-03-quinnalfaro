@@ -5,6 +5,6 @@ public class BinaryRecursiveSearch implements Practice03Search {
 	}
 
 	public String searchName(){
-		return  "";
+		return  "Binary Recursive Search";
 	}
 }

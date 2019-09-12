@@ -5,6 +5,6 @@ public class BinaryIterativeSearch implements Practice03Search {
 	}
 
 	public String searchName(){
-		return  "";
+		return  "Binary Iterative Search";
 	}
 }

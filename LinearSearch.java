@@ -10,7 +10,7 @@ public class LinearSearch implements Practice03Search {
 	}
 
 	public String searchName(){
-		return "";
+		return "Linear search”";
 	}
 	
 }
